@@ -9,7 +9,8 @@ Current package version:
   "webpack": "^4.23.1",
   "typescript": "^3.1.3",
   "react": "^16.6.0",
-  "babel-core": "^6.26.3"
+  "@babel/core": "^7.1.2",
+  "babel-preset-react-app": "^5.0.4"
 }
 ```
 
@@ -61,3 +62,7 @@ yarn test
 
 The example included a [snapshot test](https://jestjs.io/docs/en/snapshot-testing#snapshot-testing-with-jest)<br>
 `enzyme` has already installed check [official document](https://airbnb.io/enzyme/docs/api/shallow.html) for more examples.
+
+## Updates
+
+* 10/29/2018 - update to babel 7
