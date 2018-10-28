@@ -1,0 +1,35 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`<App /> 1`] = `
+<div
+  className="app"
+>
+  <header
+    className="app-header"
+  >
+    <logo.svg
+      className="app-logo"
+      height={100}
+      width={100}
+    />
+    <h1
+      className="app-title"
+    >
+      Hello React
+    </h1>
+  </header>
+  <img
+    alt="test image"
+    src="IMG_0030.jpg"
+  />
+  <p
+    className="app-intro"
+  >
+    To get started, edit 
+    <code>
+      src/App.tsx
+    </code>
+     and save to reload.
+  </p>
+</div>
+`;
