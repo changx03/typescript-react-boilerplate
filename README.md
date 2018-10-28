@@ -14,7 +14,7 @@ Current package version:
 }
 ```
 
-We borrowed configurations from `create-react-app <app-name> --scripts-version=react-scripts-ts`, but simplifed it.<br>
+We borrowed configurations from `create-react-app <app-name> --scripts-version=react-scripts-ts`, but simplified it.<br>
 See [TypeScript-React-Starter](https://github.com/Microsoft/TypeScript-React-Starter) for more details.
 
 ## Quick start
@@ -39,7 +39,7 @@ node server
 ```
 
 Then open [http://localhost:8081/](http://localhost:8081/) to see your app.<br>
-We striped *hotreload* and *service worker* from `create-react-app` to make it easier to work with Node.js server.<br>
+We striped *hot reload* and *service worker* from `create-react-app` to make it easier to work with Node.js server.<br>
 The *coverage* folder is created by `jest`. Ignore or delete it, if you don't need it.
 
 ## Output files
